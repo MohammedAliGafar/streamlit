@@ -10,7 +10,7 @@ import pandas as pd
 # Title of the app
 st.title("Mohammed A. Gafar")
 
-
+st.image("photo_2021-09-09_09-11-28.jpg")
 # Collect basic information
 name = "Dr. Mohammed Ali Gafar Mohammed"
 field = "Pharmaceutics"
